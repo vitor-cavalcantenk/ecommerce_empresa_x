@@ -43,3 +43,13 @@ __Melhoria 1__, _melhoria 2_
 ## Links Interessantes:
 
 [Google](https://www.google.com)
+
+
+## Código da função soma
+
+```javascript
+function soma(a,b){
+    return a+b;
+}
+```
+
